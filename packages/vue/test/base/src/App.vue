@@ -17,5 +17,4 @@ export default defineComponent({
     (window as any).debugIonRouter = useIonRouter();
   }
 });
-// test
 </script>

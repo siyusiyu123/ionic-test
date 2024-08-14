@@ -115,5 +115,6 @@
   "homepage": "https://ionicframework.com/",
   "jest": {
     "preset": "@stencil/core/testing"
-  }
+  },
+  "gitHead": "7e365226f53b6c77459a2f2f8521c4769ad728e5"
 }

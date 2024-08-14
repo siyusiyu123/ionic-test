@@ -76,5 +76,6 @@
   "web-types": "dist/web-types.json",
   "sideEffects": [
     "css/*.css"
-  ]
+  ],
+  "gitHead": "7e365226f53b6c77459a2f2f8521c4769ad728e5"
 }
